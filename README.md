@@ -22,26 +22,42 @@ Display All Students: View details of all students currently in the database.
 Student Options: Provide specific options for a student based on their first name and roll number, such as project deadlines, quiz dates, holidays, and timetable.
 
 
-How to Use
-Clone the repository to your local machine.
+#How to Use
 
-bash
-Copy code
+#1)Clone the Repository:
+
+Clone the repository to your local machine using the following command:
+#Copy code
 git clone https://github.com/your-username/student-management-system.git
-Compile the C++ program.
 
-bash
-Copy code
+
+#2)Compile the C++ Program:
+
+Open a terminal in the cloned repository and compile the C++ program using the following command:
+#Copy code
 g++ main.cpp -o student_management_system
-Run the executable.
 
-bash
-Copy code
+#3)Run the Executable:
+
+Execute the compiled program using the following command:
+#Copy code
 ./student_management_system
-Follow the on-screen prompts to perform various operations.
 
-Contributing
-Feel free to contribute to the development of this Student Management System by opening issues, providing suggestions, or submitting pull requests. Your input is highly appreciated.
 
-License
+#Follow On-screen Prompts:
+
+The program will display a menu with various options for managing student records.
+Follow the on-screen prompts to perform operations such as adding new students, searching for students, updating details, and more.
+Explore Features:
+
+Explore the different features provided by the system, such as searching for students by roll number, first name, or course ID, updating student details, and viewing project deadlines, quiz dates, holidays, and timetable for specific students.
+
+#Exit the Program:
+
+To exit the program, choose the option labeled "Exit" or press Ctrl + C in the terminal.
+Feel free to experiment with the functionalities and customize the program according to your needs. If you encounter any issues or have suggestions for improvement, consider contributing to the project by opening issues or submitting pull requests.
+
+#Enjoy using the Student Management System!
+
+#License
 This project is licensed under the MIT License.
