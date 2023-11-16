@@ -20,3 +20,28 @@ Update Student Details: Modify student information, including first name, last n
 Display All Students: View details of all students currently in the database.
 
 Student Options: Provide specific options for a student based on their first name and roll number, such as project deadlines, quiz dates, holidays, and timetable.
+
+
+How to Use
+Clone the repository to your local machine.
+
+bash
+Copy code
+git clone https://github.com/your-username/student-management-system.git
+Compile the C++ program.
+
+bash
+Copy code
+g++ main.cpp -o student_management_system
+Run the executable.
+
+bash
+Copy code
+./student_management_system
+Follow the on-screen prompts to perform various operations.
+
+Contributing
+Feel free to contribute to the development of this Student Management System by opening issues, providing suggestions, or submitting pull requests. Your input is highly appreciated.
+
+License
+This project is licensed under the MIT License.
